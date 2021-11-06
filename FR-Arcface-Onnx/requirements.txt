@@ -1,0 +1,8 @@
+onnx
+mxnet-cu90mkl
+numpy
+matplotlib
+opencv-python
+scikit-learn
+scikit-image
+easydict
